@@ -7,7 +7,8 @@ Technologies que l'on pourrait utiliser selon les besoins :
 - JS avec un framework : meteorJs ou AngularJs ou ???
 - du NoSql si ça s'y prête bien !
 - CSS avec pour le coté simple et bonne pratique surement bootstrapCSS
-- les API d'allociné
+- les APIs d'allociné
+- Un compte facile à créer à partir de comptes déjà renseigné comme google, facebook ou twitter
 - de l'huile de coude
 - de la bonne humeur =)
 
